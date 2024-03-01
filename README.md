@@ -18,4 +18,4 @@ This dataset contains six tables named <br>
 * team_attributes.
 
 ## Entity Relationship Diagram
-![alt text](./images/ERD.JPG)
+![alt text](./images/ERD.jpg)
