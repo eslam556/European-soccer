@@ -1,11 +1,11 @@
-# Maji Ndogo
+# European soccer
 
 **Author**: Eslam Mohamed Hafez <br>
 **Email**: em4132275@gmail.com <br>
 **LinkedIn**: https://www.linkedin.com/in/eslam-mohamed-b828521a9
 
 ## Introduction
-Continuation of SQL analysis of the water crisis in Magji Ndogo.
+SQL analysis of european soccer DataBase.
 * [Data analysis questions and answers](./questions_and_answers.md)
 
 ## Datasets used
